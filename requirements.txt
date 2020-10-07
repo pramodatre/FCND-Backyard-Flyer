@@ -7,4 +7,4 @@ pyusb==1.1.0
 udacidrone==0.3.5
 utm==0.4.0
 uvloop==0.9.1
-websockets==4.0.1
+websockets==5.0
